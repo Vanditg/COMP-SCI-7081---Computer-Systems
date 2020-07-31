@@ -1,0 +1,31 @@
+//==================================
+//Computer Systems
+//Student: Vandit Jyotindra Gajjar
+//id: a1779153
+//Semester: 2
+//Year: 2020
+//Workshop : 1
+//==================================
+//
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/01/Mux.hdl
+
+/** 
+ * Multiplexor:
+ * out = a if sel == 0
+ *       b otherwise
+ */
+
+CHIP Mux {
+    IN a, b, sel;
+    OUT out;
+
+    PARTS:
+    Not(in = sel, out = nsel);
+    And(a = a, b = nsel, out = x);
+    And(a = b, b = sel, out = y);
+    Or(a = x, b = y, out = out);
+}
+
