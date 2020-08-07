@@ -1,0 +1,41 @@
+200807-060538 Modified: ZDU0OWU5MGEwNjUxNzc0OTUwNmQyYzJmOGE1ODM5N2JhZTc0NTI4OSAgLi9NYWtlZmlsZQowYzY4
+MjMwMWFkNWJmMjMyYWNhZmM2NDQwNzUwMDFmNWZlNGZhNjYwICAuL3VwZGF0ZXMvaW5zdGFsbGVy
+LmJhc2gKNzA5YWQ1YjA4YmM1MzVkNjdmZGNhNjgzMGY2YWEwNmMxMzg2OTlhMSAgLi91cGRhdGVz
+L3dvcmtzaG9wMDItMjAyMDA4MDYtMTA1MDM4LnppcAo=
+200807-060538 make install
+200807-060538 The following command(s) cannot be found:
+200807-060538 .  zip
+200807-060538 200807-060538 Please install them and try again.
+200807-060538 200807-060538 Please install them and try again.
+200807-060538 SVN user: a1779153, repository path: 2020/s2/cs/workshop02
+200807-060538 updater:  Directory: ./ALU
+200807-060538 updater:  Directory: ./bin
+200807-060538 updater:  Directory: ./originals
+200807-060538 updater:  Directory: ./originals/ALU
+200807-060538 updater:  Creating: ./ALU/ALU-nostat.cmp
+200807-060538 updater:  Creating: ./ALU/ALU-nostat.tst
+200807-060538 updater:  Creating: ./ALU/ALU.cmp
+200807-060538 updater:  Creating: ./ALU/ALU.tst
+200807-060538 updater:  Creating: ./Add16.cmp
+200807-060538 updater:  Creating: ./Add16.tst
+200807-060538 updater:  Creating: ./FullAdder.cmp
+200807-060538 updater:  Creating: ./FullAdder.tst
+200807-060538 updater:  Creating: ./HalfAdder.cmp
+200807-060538 updater:  Creating: ./HalfAdder.tst
+200807-060538 updater:  Creating: ./Inc16.cmp
+200807-060538 updater:  Creating: ./Inc16.tst
+200807-060538 updater:  Updating: updates/Makefile
+200807-060538 updater:  Creating: ./bin/run-tests
+200807-060538 updater:  Creating: ./originals/ALU/ALU.hdl
+200807-060538 updater:  Creating: ./originals/Add16.hdl
+200807-060538 updater:  Creating: ./originals/FullAdder.hdl
+200807-060538 updater:  Creating: ./originals/HalfAdder.hdl
+200807-060538 updater:  Creating: ./originals/Inc16.hdl
+200807-060538 updater:  Made bin/run-tests executable
+200807-060538 updater:  Creating: ALU/ALU.hdl
+200807-060538 updater:  Creating: Add16.hdl
+200807-060538 updater:  Creating: FullAdder.hdl
+200807-060538 updater:  Creating: HalfAdder.hdl
+200807-060538 updater:  Creating: Inc16.hdl
+200807-060538 updater:  Updating: updates/README
+200807-060538 updater:  Update installed

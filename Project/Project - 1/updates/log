@@ -1,0 +1,73 @@
+200807-000613 make install
+200807-000613 The following command(s) cannot be found:
+200807-000613 .  zip
+200807-000613 200807-000613 Please install them and try again.
+200807-000613 200807-000613 Please install them and try again.
+200807-000613 SVN user: a1779153, repository path: 2020/s2/cs/project01
+200807-000613 updater:  Directory: ./bin
+200807-000613 updater:  Directory: ./originals
+200807-000613 updater:  Creating: ./And.cmp
+200807-000613 updater:  Creating: ./And.tst
+200807-000613 updater:  Creating: ./And16.cmp
+200807-000613 updater:  Creating: ./And16.tst
+200807-000613 updater:  Creating: ./DMux.cmp
+200807-000613 updater:  Creating: ./DMux.tst
+200807-000613 updater:  Creating: ./DMux4Way.cmp
+200807-000613 updater:  Creating: ./DMux4Way.tst
+200807-000613 updater:  Creating: ./DMux8Way.cmp
+200807-000613 updater:  Creating: ./DMux8Way.tst
+200807-000613 updater:  Updating: updates/Makefile
+200807-000613 updater:  Creating: ./Mux.cmp
+200807-000613 updater:  Creating: ./Mux.tst
+200807-000613 updater:  Creating: ./Mux16.cmp
+200807-000613 updater:  Creating: ./Mux16.tst
+200807-000613 updater:  Creating: ./Mux4Way16.cmp
+200807-000613 updater:  Creating: ./Mux4Way16.tst
+200807-000613 updater:  Creating: ./Mux8Way16.cmp
+200807-000613 updater:  Creating: ./Mux8Way16.tst
+200807-000613 updater:  Creating: ./Not.cmp
+200807-000613 updater:  Creating: ./Not.tst
+200807-000613 updater:  Creating: ./Not16.cmp
+200807-000613 updater:  Creating: ./Not16.tst
+200807-000613 updater:  Creating: ./Or.cmp
+200807-000613 updater:  Creating: ./Or.tst
+200807-000613 updater:  Creating: ./Or16.cmp
+200807-000613 updater:  Creating: ./Or16.tst
+200807-000613 updater:  Creating: ./Or8Way.cmp
+200807-000613 updater:  Creating: ./Or8Way.tst
+200807-000613 updater:  Creating: ./Xor.cmp
+200807-000613 updater:  Creating: ./Xor.tst
+200807-000613 updater:  Creating: ./bin/run-tests
+200807-000613 updater:  Creating: ./originals/And.hdl
+200807-000613 updater:  Creating: ./originals/And16.hdl
+200807-000613 updater:  Creating: ./originals/DMux.hdl
+200807-000613 updater:  Creating: ./originals/DMux4Way.hdl
+200807-000613 updater:  Creating: ./originals/DMux8Way.hdl
+200807-000613 updater:  Creating: ./originals/Mux.hdl
+200807-000613 updater:  Creating: ./originals/Mux16.hdl
+200807-000613 updater:  Creating: ./originals/Mux4Way16.hdl
+200807-000613 updater:  Creating: ./originals/Mux8Way16.hdl
+200807-000613 updater:  Creating: ./originals/Not.hdl
+200807-000613 updater:  Creating: ./originals/Not16.hdl
+200807-000613 updater:  Creating: ./originals/Or.hdl
+200807-000613 updater:  Creating: ./originals/Or16.hdl
+200807-000613 updater:  Creating: ./originals/Or8Way.hdl
+200807-000613 updater:  Creating: ./originals/Xor.hdl
+200807-000613 updater:  Made bin/run-tests executable
+200807-000613 updater:  Creating: And.hdl
+200807-000613 updater:  Creating: And16.hdl
+200807-000613 updater:  Creating: DMux.hdl
+200807-000613 updater:  Creating: DMux4Way.hdl
+200807-000613 updater:  Creating: DMux8Way.hdl
+200807-000613 updater:  Creating: Mux.hdl
+200807-000613 updater:  Creating: Mux16.hdl
+200807-000613 updater:  Creating: Mux4Way16.hdl
+200807-000613 updater:  Creating: Mux8Way16.hdl
+200807-000613 updater:  Creating: Not.hdl
+200807-000613 updater:  Creating: Not16.hdl
+200807-000613 updater:  Creating: Or.hdl
+200807-000613 updater:  Creating: Or16.hdl
+200807-000613 updater:  Creating: Or8Way.hdl
+200807-000613 updater:  Creating: Xor.hdl
+200807-000613 updater:  Updating: updates/README
+200807-000613 updater:  Update installed

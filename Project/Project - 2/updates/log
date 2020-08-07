@@ -1,0 +1,38 @@
+200807-061643 Modified: ZDU0OWU5MGEwNjUxNzc0OTUwNmQyYzJmOGE1ODM5N2JhZTc0NTI4OSAgLi9NYWtlZmlsZQpiNWYx
+MzcxMmM5ZDg2NThlMzVkY2Y0YTI1OWIwOGJmOGFlYzAzODM4ICAuL3VwZGF0ZXMvcHJvamVjdDAy
+LTIwMjAwODA2LTEwMTUwNC56aXAK
+200807-061643 make install
+200807-061643 The following command(s) cannot be found:
+200807-061643 .  zip
+200807-061643 200807-061643 Please install them and try again.
+200807-061643 200807-061643 Please install them and try again.
+200807-061643 SVN user: a1779153, repository path: 2020/s2/cs/project02
+200807-061643 updater:  Directory: ./bin
+200807-061643 updater:  Directory: ./originals
+200807-061643 updater:  Creating: ./ALU-nostat.cmp
+200807-061643 updater:  Creating: ./ALU-nostat.tst
+200807-061643 updater:  Creating: ./ALU.cmp
+200807-061643 updater:  Creating: ./ALU.tst
+200807-061643 updater:  Creating: ./Add16.cmp
+200807-061643 updater:  Creating: ./Add16.tst
+200807-061643 updater:  Creating: ./FullAdder.cmp
+200807-061643 updater:  Creating: ./FullAdder.tst
+200807-061643 updater:  Creating: ./HalfAdder.cmp
+200807-061643 updater:  Creating: ./HalfAdder.tst
+200807-061643 updater:  Creating: ./Inc16.cmp
+200807-061643 updater:  Creating: ./Inc16.tst
+200807-061643 updater:  Updating: updates/Makefile
+200807-061643 updater:  Creating: ./bin/run-tests
+200807-061643 updater:  Creating: ./originals/ALU.hdl
+200807-061643 updater:  Creating: ./originals/Add16.hdl
+200807-061643 updater:  Creating: ./originals/FullAdder.hdl
+200807-061643 updater:  Creating: ./originals/HalfAdder.hdl
+200807-061643 updater:  Creating: ./originals/Inc16.hdl
+200807-061643 updater:  Made bin/run-tests executable
+200807-061643 updater:  Creating: ALU.hdl
+200807-061643 updater:  Creating: Add16.hdl
+200807-061643 updater:  Creating: FullAdder.hdl
+200807-061643 updater:  Creating: HalfAdder.hdl
+200807-061643 updater:  Creating: Inc16.hdl
+200807-061643 updater:  Updating: updates/README
+200807-061643 updater:  Update installed
