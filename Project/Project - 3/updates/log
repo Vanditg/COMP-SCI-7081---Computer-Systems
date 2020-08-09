@@ -1,0 +1,54 @@
+200810-020539 Modified: ZDU0OWU5MGEwNjUxNzc0OTUwNmQyYzJmOGE1ODM5N2JhZTc0NTI4OSAgLi9NYWtlZmlsZQowYzY4
+MjMwMWFkNWJmMjMyYWNhZmM2NDQwNzUwMDFmNWZlNGZhNjYwICAuL3VwZGF0ZXMvaW5zdGFsbGVy
+LmJhc2gKZDU4MDBkNmNhYWM3ZTExYWFlZWFmOTcwNDkxMDU0ZTQ4MzNiYTIzYiAgLi91cGRhdGVz
+L3Byb2plY3QwMy0yMDIwMDgwNi0xMDUwNTIuemlwCjE1MTRmYmRlNDlhMGI0YzAyYjMyNGIzODlk
+NGE4MTE2ZGZhODQzYzIgIC4vdXBkYXRlcy91cGRhdGVyLmJhc2gK
+200810-020539 make install
+200810-020539 The following command(s) cannot be found:
+200810-020539 .  zip
+200810-020539 200810-020539 Please install them and try again.
+200810-020539 200810-020539 Please install them and try again.
+200810-020539 SVN user: a1779153, repository path: 2020/s2/cs/project03
+200810-020539 updater:  Directory: ./a
+200810-020539 updater:  Directory: ./b
+200810-020539 updater:  Directory: ./bin
+200810-020539 updater:  Directory: ./originals
+200810-020539 updater:  Directory: ./originals/a
+200810-020539 updater:  Directory: ./originals/b
+200810-020539 updater:  Updating: updates/Makefile
+200810-020539 updater:  Creating: ./a/Bit.cmp
+200810-020539 updater:  Creating: ./a/Bit.tst
+200810-020539 updater:  Creating: ./a/PC.cmp
+200810-020539 updater:  Creating: ./a/PC.tst
+200810-020539 updater:  Creating: ./a/RAM64.cmp
+200810-020539 updater:  Creating: ./a/RAM64.tst
+200810-020539 updater:  Creating: ./a/RAM8.cmp
+200810-020539 updater:  Creating: ./a/RAM8.tst
+200810-020539 updater:  Creating: ./a/Register.cmp
+200810-020539 updater:  Creating: ./a/Register.tst
+200810-020539 updater:  Creating: ./b/RAM16K.cmp
+200810-020539 updater:  Creating: ./b/RAM16K.tst
+200810-020539 updater:  Creating: ./b/RAM4K.cmp
+200810-020539 updater:  Creating: ./b/RAM4K.tst
+200810-020539 updater:  Creating: ./b/RAM512.cmp
+200810-020539 updater:  Creating: ./b/RAM512.tst
+200810-020539 updater:  Creating: ./bin/run-tests
+200810-020539 updater:  Creating: ./originals/a/Bit.hdl
+200810-020539 updater:  Creating: ./originals/a/PC.hdl
+200810-020539 updater:  Creating: ./originals/a/RAM64.hdl
+200810-020539 updater:  Creating: ./originals/a/RAM8.hdl
+200810-020539 updater:  Creating: ./originals/a/Register.hdl
+200810-020539 updater:  Creating: ./originals/b/RAM16K.hdl
+200810-020539 updater:  Creating: ./originals/b/RAM4K.hdl
+200810-020539 updater:  Creating: ./originals/b/RAM512.hdl
+200810-020539 updater:  Made bin/run-tests executable
+200810-020539 updater:  Creating: a/Bit.hdl
+200810-020539 updater:  Creating: a/PC.hdl
+200810-020539 updater:  Creating: a/RAM64.hdl
+200810-020539 updater:  Creating: a/RAM8.hdl
+200810-020539 updater:  Creating: a/Register.hdl
+200810-020539 updater:  Creating: b/RAM16K.hdl
+200810-020539 updater:  Creating: b/RAM4K.hdl
+200810-020539 updater:  Creating: b/RAM512.hdl
+200810-020539 updater:  Updating: updates/README
+200810-020539 updater:  Update installed
