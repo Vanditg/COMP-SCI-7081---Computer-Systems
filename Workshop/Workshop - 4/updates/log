@@ -1,0 +1,49 @@
+200818-023406 Modified: ZDU0OWU5MGEwNjUxNzc0OTUwNmQyYzJmOGE1ODM5N2JhZTc0NTI4OSAgLi9NYWtlZmlsZQowYzY4
+MjMwMWFkNWJmMjMyYWNhZmM2NDQwNzUwMDFmNWZlNGZhNjYwICAuL3VwZGF0ZXMvaW5zdGFsbGVy
+LmJhc2gKNDFmZGI2NDMxYmQ0NDZlMTMzYzM2YzFkMWZmYWUzZGMxMDc1MjAxNSAgLi91cGRhdGVz
+L3dvcmtzaG9wMDQtMjAyMDA4MTUtMTUxNzI5LnppcAo=
+200818-023406 make install
+200818-023406 The following command(s) cannot be found:
+200818-023406 .  zip
+200818-023406 200818-023406 Please install them and try again.
+200818-023406 200818-023406 Please install them and try again.
+200818-023406 SVN user: a1779153, repository path: 2020/s2/cs/workshop04
+200818-023406 updater:  Directory: ./bin
+200818-023406 updater:  Directory: ./originals
+200818-023406 updater:  Creating: ./Add.hack
+200818-023406 updater:  Creating: ./CPU-external.cmp
+200818-023406 updater:  Creating: ./CPU-external.tst
+200818-023406 updater:  Creating: ./CPU.cmp
+200818-023406 updater:  Creating: ./CPU.tst
+200818-023406 updater:  Creating: ./ComputerAdd-external.cmp
+200818-023406 updater:  Creating: ./ComputerAdd-external.tst
+200818-023406 updater:  Creating: ./ComputerAdd.cmp
+200818-023406 updater:  Creating: ./ComputerAdd.tst
+200818-023406 updater:  Creating: ./ComputerMax-external.cmp
+200818-023406 updater:  Creating: ./ComputerMax-external.tst
+200818-023406 updater:  Creating: ./ComputerMax.cmp
+200818-023406 updater:  Creating: ./ComputerMax.tst
+200818-023406 updater:  Creating: ./ComputerRect-external.cmp
+200818-023406 updater:  Creating: ./ComputerRect-external.tst
+200818-023406 updater:  Creating: ./ComputerRect.cmp
+200818-023406 updater:  Creating: ./ComputerRect.tst
+200818-023406 updater:  Updating: updates/Makefile
+200818-023406 updater:  Creating: ./Max.hack
+200818-023406 updater:  Creating: ./Memory.cmp
+200818-023406 updater:  Creating: ./Memory.tst
+200818-023406 updater:  Creating: ./Memoryx.cmp
+200818-023406 updater:  Creating: ./Memoryx.tst
+200818-023406 updater:  Creating: ./Rect.hack
+200818-023406 updater:  Creating: ./bin/run-tests
+200818-023406 updater:  Creating: ./originals/CPU.hdl
+200818-023406 updater:  Creating: ./originals/Computer.hdl
+200818-023406 updater:  Creating: ./originals/Memory.hdl
+200818-023406 updater:  Made Add.hack executable
+200818-023406 updater:  Made Max.hack executable
+200818-023406 updater:  Made Rect.hack executable
+200818-023406 updater:  Made bin/run-tests executable
+200818-023406 updater:  Creating: CPU.hdl
+200818-023406 updater:  Creating: Computer.hdl
+200818-023406 updater:  Creating: Memory.hdl
+200818-023406 updater:  Updating: updates/README
+200818-023406 updater:  Update installed
