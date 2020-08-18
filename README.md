@@ -1,10 +1,11 @@
 # COMP-SCI-7081---Computer-Systems  
-This repository contains assignment, quizes, workshops, and practical exam solutions for one of my postgraduate subjects of COMP SCI 7081 - Computer Systems. The programming language will be HDL.  
+This repository contains assignment, quizes, workshops, and practical exam solutions for one of my postgraduate subjects of [COMP SCI 7081 - Computer Systems](https://www.adelaide.edu.au/course-outlines/102691/1/sem-2/). The programming language will be [HDL](https://en.wikipedia.org/wiki/Hardware_description_language).  
 
 # Easy Navigation for Workshops.  
 [Workshop - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%201/problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%201)  
 [Workshop - 2](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202)    
 [Workshop - 3](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%203/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%203)  
+[Workshop - 4](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204)  
 
 # Easy Navigation for Quizzes.  
 [Quiz - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%201.pdf)  
