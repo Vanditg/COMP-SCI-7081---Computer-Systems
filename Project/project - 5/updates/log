@@ -1,0 +1,49 @@
+200820-142427 Modified: ZDU0OWU5MGEwNjUxNzc0OTUwNmQyYzJmOGE1ODM5N2JhZTc0NTI4OSAgLi9NYWtlZmlsZQowYzY4
+MjMwMWFkNWJmMjMyYWNhZmM2NDQwNzUwMDFmNWZlNGZhNjYwICAuL3VwZGF0ZXMvaW5zdGFsbGVy
+LmJhc2gKNzhlMGVlYzQxM2I0MDBlZGM0YzUwODRmNzRjOTE3ZGUzNjIwMmIwYSAgLi91cGRhdGVz
+L3Byb2plY3QwNS0yMDIwMDgxNC0xMDE2MzMuemlwCg==
+200820-142427 make install
+200820-142427 The following command(s) cannot be found:
+200820-142427 .  zip
+200820-142427 200820-142427 Please install them and try again.
+200820-142427 200820-142427 Please install them and try again.
+200820-142427 SVN user: a1779153, repository path: 2020/s2/cs/project05
+200820-142427 updater:  Directory: ./bin
+200820-142427 updater:  Directory: ./originals
+200820-142427 updater:  Creating: ./Add.hack
+200820-142427 updater:  Creating: ./CPU-external.cmp
+200820-142427 updater:  Creating: ./CPU-external.tst
+200820-142427 updater:  Creating: ./CPU.cmp
+200820-142427 updater:  Creating: ./CPU.tst
+200820-142427 updater:  Creating: ./ComputerAdd-external.cmp
+200820-142427 updater:  Creating: ./ComputerAdd-external.tst
+200820-142427 updater:  Creating: ./ComputerAdd.cmp
+200820-142427 updater:  Creating: ./ComputerAdd.tst
+200820-142427 updater:  Creating: ./ComputerMax-external.cmp
+200820-142427 updater:  Creating: ./ComputerMax-external.tst
+200820-142427 updater:  Creating: ./ComputerMax.cmp
+200820-142427 updater:  Creating: ./ComputerMax.tst
+200820-142427 updater:  Creating: ./ComputerRect-external.cmp
+200820-142427 updater:  Creating: ./ComputerRect-external.tst
+200820-142427 updater:  Creating: ./ComputerRect.cmp
+200820-142427 updater:  Creating: ./ComputerRect.tst
+200820-142427 updater:  Updating: updates/Makefile
+200820-142427 updater:  Creating: ./Max.hack
+200820-142427 updater:  Creating: ./Memory.cmp
+200820-142427 updater:  Creating: ./Memory.tst
+200820-142427 updater:  Creating: ./Memoryx.cmp
+200820-142427 updater:  Creating: ./Memoryx.tst
+200820-142427 updater:  Creating: ./Rect.hack
+200820-142427 updater:  Creating: ./bin/run-tests
+200820-142427 updater:  Creating: ./originals/CPU.hdl
+200820-142427 updater:  Creating: ./originals/Computer.hdl
+200820-142427 updater:  Creating: ./originals/Memory.hdl
+200820-142427 updater:  Made Add.hack executable
+200820-142427 updater:  Made Max.hack executable
+200820-142427 updater:  Made Rect.hack executable
+200820-142427 updater:  Made bin/run-tests executable
+200820-142427 updater:  Creating: CPU.hdl
+200820-142427 updater:  Creating: Computer.hdl
+200820-142427 updater:  Creating: Memory.hdl
+200820-142427 updater:  Updating: updates/README
+200820-142427 updater:  Update installed
