@@ -6,6 +6,8 @@ This repository contains assignment, quizes, workshops, and practical exam solut
 [Workshop - 2](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202)    
 [Workshop - 3](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%203/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%203)  
 [Workshop - 4](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204)  
+[Workshop - 5] --->>> Not attended :(    
+[Workshop - 6] --->>> Not attended :(  
 
 # Easy Navigation for Quizzes.  
 [Quiz - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%201.pdf)  
@@ -16,6 +18,7 @@ This repository contains assignment, quizes, workshops, and practical exam solut
 [Quiz - 10](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2010.pdf)  
 [Quiz - 11](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2011.pdf)  
 [Quiz - 12](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2012.pdf)  
+[Quiz - 14](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2014.pdf)  
 
 # Easy Navigation for Projects.  
 [Project - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201)  
