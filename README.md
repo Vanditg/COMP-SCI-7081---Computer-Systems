@@ -4,6 +4,9 @@ This repository contains assignment, quizes, workshops, and practical exam solut
 # Easy Navigation for Assignments.  
 [Assignment - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%201/Problem/Assignment_1.pdf) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Assignment/Assignment%20-%201/Solution) <<<--->>> [Logbook](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%201/Logbook/Assignment_1_Logbook.pdf) <<<--->>> [Websubmission-Output](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%201/Websubmission_Output/Assignment_1_Web_Submission.pdf)  
 
+# Easy Navigation for Practical Exam.  
+[Practical Exam - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Solution) <<<--->>> [Websubmission-Output](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Websubmission)  
+
 # Easy Navigation for Workshops.  
 [Workshop - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%201/problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%201)  
 [Workshop - 2](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202)    
