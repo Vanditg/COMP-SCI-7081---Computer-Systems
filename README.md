@@ -3,6 +3,7 @@ This repository contains assignment, quizes, workshops, and practical exam solut
 
 # Easy Navigation for Assignments.  
 [Assignment - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%201/Problem/Assignment_1.pdf) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Assignment/Assignment%20-%201/Solution) <<<--->>> [Logbook](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%201/Logbook/Assignment_1_Logbook.pdf) <<<--->>> [Websubmission-Output](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%201/Websubmission_Output/Assignment_1_Web_Submission.pdf)  
+[Assignment - 2](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%202/Problem/Assignment_2.pdf) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Assignment/Assignment%20-%202/Solution) <<<--->>> [Logbook](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%202/Logbook/Assignment_2_Logbook.pdf) <<<--->>> [Websubmission-Output](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Assignment/Assignment%20-%202/Websubmission_Output/Assignment_2_Websubmission_Output.pdf)  
 
 # Easy Navigation for Practical Exam.  
 [Practical Exam - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Solution) <<<--->>> [Websubmission-Output](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Websubmission)  
@@ -26,6 +27,7 @@ Workshop - 6 --->>> Not attended :(
 [Quiz - 12](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2012.pdf)  
 [Quiz - 14](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2014.pdf)  
 [Quiz - 16](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2016.pdf)  
+[Quiz - 17](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2017.pdf)  
 
 # Easy Navigation for Projects.  
 [Project - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201)  
