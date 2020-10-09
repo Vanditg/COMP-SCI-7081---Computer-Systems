@@ -28,6 +28,7 @@ Workshop - 6 --->>> Not attended :(
 [Quiz - 14](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2014.pdf)  
 [Quiz - 16](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2016.pdf)  
 [Quiz - 17](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2017.pdf)  
+[Quiz - 18](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2018.pdf)  
 
 # Easy Navigation for Projects.  
 [Project - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201)  
