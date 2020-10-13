@@ -7,6 +7,7 @@ This repository contains assignment, quizes, workshops, and practical exam solut
 
 # Easy Navigation for Practical Exam.  
 [Practical Exam - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Solution) <<<--->>> [Websubmission-Output](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_1/Websubmission)  
+[Practical Exam - 2](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_2/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_2/Solution) <<<--->>> [Websubmission-Output](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Practical_Exam/Practical_Exam_2/Websubmission)    
 
 # Easy Navigation for Workshops.  
 [Workshop - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%201/problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%201)  
@@ -15,6 +16,9 @@ This repository contains assignment, quizes, workshops, and practical exam solut
 [Workshop - 4](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204)  
 Workshop - 5 --->>> Not attended :(    
 Workshop - 6 --->>> Not attended :(  
+Workshop - 7 --->>> Not attended :(  
+Workshop - 8 --->>> Not attended :(  
+Workshop - 9 --->>> Not attended :(  
 
 # Easy Navigation for Quizzes.  
 [Quiz - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%201.pdf)  
