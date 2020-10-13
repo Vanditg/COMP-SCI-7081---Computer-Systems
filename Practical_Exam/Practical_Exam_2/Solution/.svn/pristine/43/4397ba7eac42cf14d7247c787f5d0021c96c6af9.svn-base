@@ -1,0 +1,7 @@
+pop local 1
+@SP
+AM=M-1
+D=M
+@LCL
+A=M+1
+M=D

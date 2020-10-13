@@ -1,0 +1,26 @@
+function Question.zero 0
+(Question.zero)
+
+eq
+@SP
+AM=M-1
+A=A-1
+D=M
+A=A+1
+D=D-M
+@SP
+M=M-1
+@Question.zero$BOB
+D;JEQ
+@SP
+A=M
+M=0
+@Question.zero$END
+0;JMP
+(Question.zero$BOB)
+@SP
+A=M
+M=-1
+(Question.zero$END)
+@SP
+M=M+1

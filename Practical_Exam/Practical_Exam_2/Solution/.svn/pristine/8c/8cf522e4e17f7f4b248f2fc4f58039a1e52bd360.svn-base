@@ -1,0 +1,6 @@
+function Question.zero 0
+(Question.zero)
+
+goto phants
+@Question.zero$phants
+0;JMP

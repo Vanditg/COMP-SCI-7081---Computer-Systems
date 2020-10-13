@@ -1,0 +1,9 @@
+function Question.zero 0
+(Question.zero)
+
+if-goto are_big
+@SP
+AM=M-1
+D=M
+@Question.zero$are_big
+D;JNE

@@ -1,0 +1,10 @@
+function Question.two 2
+(Question.two)
+@SP
+AM=M+1
+A=A-1
+M=0
+@SP
+AM=M+1
+A=A-1
+M=0

@@ -1,0 +1,60 @@
+201013-090650 Modified: ZDU0OWU5MGEwNjUxNzc0OTUwNmQyYzJmOGE1ODM5N2JhZTc0NTI4OSAgLi8uc3ZuL3ByaXN0aW5l
+L2Q1L2Q1NDllOTBhMDY1MTc3NDk1MDZkMmMyZjhhNTgzOTdiYWU3NDUyODkuc3ZuLWJhc2UKYTQ5
+MTU3MzM5ZjEwMmMyZTNjMWE4YWUxZDJmZDA3NjkzMTMxMzhmOSAgLi8uc3ZuL3djLmRiCjBjNjgy
+MzAxYWQ1YmYyMzJhY2FmYzY0NDA3NTAwMWY1ZmU0ZmE2NjAgIC4vdXBkYXRlcy9pbnN0YWxsZXIu
+YmFzaApkNTQ5ZTkwYTA2NTE3NzQ5NTA2ZDJjMmY4YTU4Mzk3YmFlNzQ1Mjg5ICAuL01ha2VmaWxl
+Cg==
+201013-090650 make install
+201013-090650 SVN user: a1779153, repository path: 2020/s2/cs/exam2-primary
+201013-090650 updater:  Directory: ./bin
+201013-090650 updater:  Directory: ./originals
+201013-090650 updater:  Directory: ./lib
+201013-090650 updater:  Directory: ./lib/cats
+201013-090650 updater:  Directory: ./lib/cats/bin
+201013-090650 updater:  Directory: ./lib/macos
+201013-090650 updater:  Directory: ./lib/macos/bin
+201013-090650 updater:  Directory: ./lib/centos8
+201013-090650 updater:  Directory: ./lib/centos8/bin
+201013-090650 updater:  Creating: ./bin/assembler
+201013-090650 updater:  Creating: ./bin/simulator
+201013-090650 updater:  Creating: ./bin/run-tests
+201013-090650 updater:  Creating: updates/Makefile
+201013-090650 updater:  Creating: ./originals/question03.vm-asm
+201013-090650 updater:  Creating: ./originals/question01.vm-asm
+201013-090650 updater:  Creating: ./originals/question09.vm-asm
+201013-090650 updater:  Creating: ./originals/question05.vm-asm
+201013-090650 updater:  Creating: ./originals/question07.vm-asm
+201013-090650 updater:  Creating: ./originals/question10.vm-asm
+201013-090650 updater:  Creating: ./originals/question02.vm-asm
+201013-090650 updater:  Creating: ./originals/question00.vm-asm
+201013-090650 updater:  Creating: ./originals/question08.vm-asm
+201013-090650 updater:  Creating: ./originals/question04.vm-asm
+201013-090650 updater:  Creating: ./originals/question06.vm-asm
+201013-090650 updater:  Creating: ./lib/cats/bin/assembler
+201013-090650 updater:  Creating: ./lib/cats/bin/simulator
+201013-090650 updater:  Creating: ./lib/macos/bin/assembler
+201013-090650 updater:  Creating: ./lib/macos/bin/simulator
+201013-090650 updater:  Creating: ./lib/centos8/bin/assembler
+201013-090650 updater:  Creating: ./lib/centos8/bin/simulator
+201013-090650 updater:  Made bin/assembler executable
+201013-090650 updater:  Made bin/run-tests executable
+201013-090650 updater:  Made bin/simulator executable
+201013-090650 updater:  Made lib/cats/bin/assembler executable
+201013-090650 updater:  Made lib/cats/bin/simulator executable
+201013-090650 updater:  Made lib/centos8/bin/assembler executable
+201013-090650 updater:  Made lib/centos8/bin/simulator executable
+201013-090650 updater:  Made lib/macos/bin/assembler executable
+201013-090650 updater:  Made lib/macos/bin/simulator executable
+201013-090650 updater:  Creating: question03.vm-asm
+201013-090650 updater:  Creating: question01.vm-asm
+201013-090650 updater:  Creating: question09.vm-asm
+201013-090650 updater:  Creating: question05.vm-asm
+201013-090650 updater:  Creating: question07.vm-asm
+201013-090650 updater:  Creating: question10.vm-asm
+201013-090650 updater:  Creating: question02.vm-asm
+201013-090650 updater:  Creating: question00.vm-asm
+201013-090650 updater:  Creating: question08.vm-asm
+201013-090650 updater:  Creating: question04.vm-asm
+201013-090650 updater:  Creating: question06.vm-asm
+201013-090650 updater:  Updating: updates/README
+201013-090650 updater:  Update installed
