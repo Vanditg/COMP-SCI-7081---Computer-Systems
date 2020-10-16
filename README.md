@@ -14,11 +14,12 @@ This repository contains assignment, quizes, workshops, and practical exam solut
 [Workshop - 2](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%202)    
 [Workshop - 3](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%203/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%203)  
 [Workshop - 4](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Workshop/Workshop%20-%204)  
-Workshop - 5 --->>> Not attended :(    
-Workshop - 6 --->>> Not attended :(  
-Workshop - 7 --->>> Not attended :(  
-Workshop - 8 --->>> Not attended :(  
-Workshop - 9 --->>> Not attended :(  
+Workshop - 5  --->>> Not attended :(    
+Workshop - 6  --->>> Not attended :(  
+Workshop - 7  --->>> Not attended :(  
+Workshop - 8  --->>> Not attended :(  
+Workshop - 9  --->>> Not attended :(  
+Workshop - 10 --->>> Not attended :(  
 
 # Easy Navigation for Quizzes.  
 [Quiz - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%201.pdf)  
@@ -34,6 +35,7 @@ Workshop - 9 --->>> Not attended :(
 [Quiz - 17](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2017.pdf)  
 [Quiz - 18](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2018.pdf)  
 [Quiz - 20](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2020.pdf)  
+[Quiz - 22](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/blob/master/Quiz/Quiz%20-%20Lecture%2022.pdf)  
 
 # Easy Navigation for Projects.  
 [Project - 1](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%201)  
