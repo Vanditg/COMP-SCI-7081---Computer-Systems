@@ -48,3 +48,6 @@ Workshop - 12 --->>> Not attended :(
 [Project - 2](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%202)  
 [Project - 3](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%203/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/Project%20-%203)  
 [Project - 5](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/project%20-%205/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7081---Computer-Systems/tree/master/Project/project%20-%205)  
+
+## Lecture Slides and Videos  
+Please send a request [Here](https://shorturl.at/vwJ25)  
